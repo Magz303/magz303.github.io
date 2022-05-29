@@ -4,7 +4,5 @@ feed: show
 date : 29-05-2022
 ---
 
-Welcome to Magnus Tarle's website which is under construction. This file is located in `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
-
-Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
+Welcome to Magnus Tarle's website. My plan is to add some notes related to my research to this page.
 
